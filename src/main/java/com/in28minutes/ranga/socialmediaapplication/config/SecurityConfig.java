@@ -1,3 +1,4 @@
+/*
 package com.in28minutes.ranga.socialmediaapplication.config;
 
 import org.springframework.context.annotation.Bean;
@@ -30,3 +31,4 @@ public class SecurityConfig {
         return new BCryptPasswordEncoder();
     }
 }
+*/
